@@ -1,0 +1,2 @@
+# If you are a designer and wanna make new template design, please use our figma template:
+https://www.figma.com/file/tu6kFdXb4W3YWMOtQ4bUSH/Agro?type=design&node-id=0%3A1&mode=design&t=AzUJuguQCK4ILrjI-1

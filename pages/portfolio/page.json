@@ -1,0 +1,10 @@
+{
+	"name": "portfolio",
+	"portfolio": {
+		"id": "/portfolio",
+        "thumb": "https://agro.webart.work/template/img/welcome.png",
+        "thumbs": ["https://agro.webart.work/template/img/welcome.png"],
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+		"name": "andrey.lizivinskiy"
+	} 
+}
